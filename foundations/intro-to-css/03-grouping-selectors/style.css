@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.piola,
+.feo{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.piola{
+    background-color: black;
+    color: white;
+}
+
+.feo{
+    background-color: yellow;
+}
